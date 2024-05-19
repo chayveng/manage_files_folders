@@ -1,0 +1,72 @@
+[
+    {
+        "title": "dst_vpn",
+        "dst": "D:/Downloads/VPN",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["txt"],
+        "files": []
+    },
+    {
+        "title": "dst_txt",
+        "dst": "D:/Downloads/Docs/txt",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["txt"],
+        "files": []
+    },
+    {
+        "title": "dst_xlsx",
+        "dst": "D:/Downloads/Docs/xlsx",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["xls", "xlsx"],
+        "files": []
+    },
+    {
+        "title": "dst_pptx",
+        "dst": "D:/Downloads/Docs/pptx",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["ppt", "pptx"],
+        "files": []
+    },
+    {
+        "title": "dst_docx",
+        "dst": "D:/Downloads/Docs/docx",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["doc", "docx"],
+        "files": []
+    },
+    {
+        "title": "dst_pdf",
+        "dst": "D:/Downloads/Docs/pdf",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["pdf"],
+        "files": []
+    },
+    {
+        "title": "dst_images",
+        "dst": "D:/Downloads/Images",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["jpeg", "jpg", "png", "gif"],
+        "files": []
+    },
+    {
+        "title": "dst_dev_files",
+        "dst": "D:/Downloads/Dev/Files",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": [ "yml", "json", "conf", "js", "hex", "md", "csv", "ino", "sql", "xml", "sh" ],
+        "files": []
+    },
+    {
+        "title": "dst_compress",
+        "dst": "D:/Downloads/Compress",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["zip", "rar", "tar", "tar.gz", "gz"],
+        "files": []
+    },
+    {
+        "title": "dst_programs",
+        "dst": "D:/Downloads/Programs",
+        "src": "C:/Users/Chayv/Downloads",
+        "target_type": ["exe", "msi"],
+        "files": []
+    }
+]
